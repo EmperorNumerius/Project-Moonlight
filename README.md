@@ -1,1 +1,1 @@
-Please see [hackclub/forge](https://github.com/hackclub/forge)
+Please see [hackclub/forge-printer](https://github.com/hackclub/forge-printer)
